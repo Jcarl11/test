@@ -1,2 +1,2 @@
 random value
-Some new value
+fromMaster
